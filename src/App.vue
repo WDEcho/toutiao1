@@ -19,6 +19,7 @@
   width: 100px;
   height: 100px;
   background-color: red;
+  padding: 10px;
 }
 
 </style>
